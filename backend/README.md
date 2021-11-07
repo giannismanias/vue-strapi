@@ -3,4 +3,6 @@
 A quick description of your strapi application
 
 Start with: 
+```
 yarn develop
+```
